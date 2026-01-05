@@ -22,7 +22,7 @@ public class StarProblem5_1 {
 /*
 1
 12
-123
+123 
 1234
 12345
 1234
